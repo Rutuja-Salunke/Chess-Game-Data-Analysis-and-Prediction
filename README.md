@@ -1,6 +1,6 @@
 # Chess Game Data Analysis and Prediction
 
-This repository contains the analysis and prediction models for chess game outcomes using a dataset from Lichess.org.
+
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -11,15 +11,14 @@ This repository contains the analysis and prediction models for chess game outco
 - [Feature Engineering](#feature-engineering)
 - [Model Training and Evaluation](#model-training-and-evaluation)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 - 🎯 **Goal:** Analyze chess game data and predict game outcomes.
 - 🔍 **Methods:** EDA, feature engineering, visualization, model training.
 
 ## Dataset
-- 📁 **Source:** Lichess.org
+- 📁 **Source:** Kaggle.org
 - 📊 **Content:** Includes game ID, ratings, moves, results, and more.
 - 🏆 **Features:** Player ratings, game duration, opening names.
 
@@ -41,12 +40,9 @@ This repository contains the analysis and prediction models for chess game outco
   ```
 - 🚀 **Run Analysis:**
   ```bash
-  jupyter notebook analysis.ipynb
+  Internship.ipynb
   ```
-  or
-  ```bash
-  python analysis.py
-  ```
+ 
 
 ## Exploratory Data Analysis
 - 🔎 **Inspect Data:** View dataset structure, statistics, and check for missing values.
