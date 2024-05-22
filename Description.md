@@ -9,8 +9,7 @@
 - [Feature Engineering](#feature-engineering)
 - [Model Training and Evaluation](#model-training-and-evaluation)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 The goal of this project is to analyze a dataset of chess games and build machine learning models to predict the outcome of a chess game. We explore the dataset, engineer features, visualize data trends, and evaluate the performance of different classification models.
