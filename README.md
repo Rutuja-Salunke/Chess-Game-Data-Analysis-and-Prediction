@@ -1,6 +1,4 @@
-# Chess Game Data Analysis and Prediction
-
-
+# ♟️ Smart Chess Insights: Data Analysis & Prediction 📊
 
 ## Table of Contents
 - [Introduction](#introduction)
