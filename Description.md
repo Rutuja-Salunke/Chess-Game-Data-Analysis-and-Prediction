@@ -50,11 +50,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chess-game-analysis.git
+   [git clone https://github.com/yourusername/chess-game-analysis.git](https://github.com/Rutuja-Salunke/Chess-Game-Data-Analysis-and-Prediction)
    ```
 2. Navigate to the project directory:
    ```bash
-   cd chess-game-analysis
+   [cd chess-game-analysis](https://github.com/Rutuja-Salunke/Chess-Game-Data-Analysis-and-Prediction)
    ```
 3. Run the Jupyter notebook or Python script to perform the analysis:
    ```bash
