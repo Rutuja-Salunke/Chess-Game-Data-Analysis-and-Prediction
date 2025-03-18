@@ -1,4 +1,4 @@
-# ♟️ Smart Chess Insights: Data Analysis & Prediction 📊
+# ♟️Smart Chess Insights: Data Analysis & Prediction 📊
 
 ## Table of Contents
 - [Introduction](#introduction)
